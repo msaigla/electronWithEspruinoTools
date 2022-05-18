@@ -1,0 +1,19 @@
+{
+  "name": "electron-with-espruino",
+  "version": "1.0.0",
+  "description": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "msaigla@ya.ru",
+  "homepage": ".",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^17.2.0"
+  },
+  "dependencies": {
+    "espruino": "^0.1.41",
+    "jquery": "^3.6.0"
+  }
+}
